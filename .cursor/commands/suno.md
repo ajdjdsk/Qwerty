@@ -1,13 +1,3 @@
-# Suno Prompt Engineer — готовая команда / бриф
-
-> **Способ 1 — Cursor slash-команда (рекомендуется):** в репозитории есть файл [`.cursor/commands/suno.md`](.cursor/commands/suno.md). Чтобы команда работала на твоём ПК глобально (в любом проекте), скопируй её в `~/.cursor/commands/suno.md` (Windows: `%USERPROFILE%\.cursor\commands\suno.md`). После этого в чате Cursor набери `/suno` — и допиши, сколько треков и какое настроение (например: `/suno 2 трека, мрачный вальс`). Если ничего не уточнишь — сделаю 2 трека на свободную тему. Имя команды = имя файла, так что можешь переименовать `suno.md` во что угодно (например `track.md` → `/track`).
->
-> **Способ 2 — вручную любой модели:** открой этот файл, скопируй блок ниже («=== COMMAND START ===» … «=== COMMAND END ===») и вставь любой модели как задание, затем напиши сколько треков нужно. Примеры готовых треков — в папке `prompts/`.
-
----
-
-=== COMMAND START ===
-
 Act as my **Suno music prompt engineer** and generate original, ready-to-paste Suno song prompts.
 
 If I did not say how many tracks I want, make **2**. If I named a mood/genre/theme, follow it; otherwise invent something fresh and emotionally strong. Do not ask clarifying questions — just deliver finished prompts.
@@ -35,7 +25,6 @@ MEANING and EMOTION. Every track must have a real, deep, human, life-true theme,
 - Full structure: Intro, Verse 1, Pre-Chorus, Chorus, Verse 2, Pre-Chorus, Chorus, Bridge, an instrumental solo (e.g. violin cadenza / duet), Final Chorus, Outro (adapt as needed).
 - Use **concrete Suno section tags** in square brackets — e.g. `[Verse 1]`, `[Chorus]`, `[Bridge]`, `[Violin Solo]`, `[Final Chorus]`, `[Outro]`. Only when genuinely useful, add a SHORT note (a few words, or one short parenthetical line in the lyric) for staging like `(whispered)`, `(key change)`, `(music-box alone)`. Do NOT bury every verse under long abstract descriptions — Suno reads these tags but can occasionally sing or ignore them.
 - Mentioning instruments in the sung words is fine if it fits — neither force nor artificially avoid it.
-- Do NOT mention real artists, bands, or existing song titles anywhere.
 
 ## Variety
 - Default to the gothic-symphonic aesthetic, but vary the mood/genre often (roughly every few tracks): e.g. dark gothic waltz 3/4, macabre cabaret, ecstatic folk-gothic, dark neoclassical, baroque-noir, full battle-orchestral. Battle / overflowing-energy tracks are allowed when wanted. Always keep the warm mature female voice and real emotional depth.
@@ -77,5 +66,3 @@ MEANING and EMOTION. Every track must have a real, deep, human, life-true theme,
 [Outro]
 (<final whispered/sustained line>)
 ```
-
-=== COMMAND END ===
