@@ -69,6 +69,8 @@ When writing tracks to disk, follow this exact scheme:
 ```
 # <Title> (Opus 4.8)
 
+> **Направление / стиль:** <intended genre / performance style in a few words, in Russian — explicit, especially for experiments, e.g. "Барочный концерт в духе Вивальди", "Фламенко-готик", "Джаз-нуар торч-баллада".>
+
 > **Смысл:** <1–3 sentences in Russian: theme, meaning, emotional arc>
 
 ## Ползунки Suno

@@ -63,6 +63,8 @@ When writing tracks to disk (or when I ask you to save them), follow this exact 
 ```
 # <Title> (Opus 4.8)
 
+> **Направление / стиль:** <name the intended genre / performance style in a few words, in Russian — be explicit, especially for experiments, e.g. "Барочный концерт в духе Вивальди (fast-slow-fast)", "Фламенко-готик (duende)", "Джаз-нуар торч-баллада", "Готический вальс 3/4". This makes the performance style obvious at a glance.>
+
 > **Смысл:** <1–3 sentences in Russian: theme, meaning, emotional arc>
 
 ## Ползунки Suno
