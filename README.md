@@ -22,3 +22,6 @@
 | 01 | [The Lighthouse Keeper's Last Dawn](prompts/01-the-lighthouse-keepers-last-dawn.md) | скорбное достоинство → светлое принятие | 68% / 24% |
 | 02 | [The Cartographer of Goodbyes](prompts/02-the-cartographer-of-goodbyes.md) | тоска → благодарность, маршевый драйв | 64% / 30% |
 | 03 | [Crown of Broken Glass](prompts/03-crown-of-broken-glass.md) | ярость → торжество, воинственный | 70% / 33% |
+| 04 | [The Light You Left Behind](prompts/04-the-light-you-left-behind.md) | светлое утешение «с той стороны», минор→мажор | 74% / 18% |
+| 05 | [The Unwritten Will](prompts/05-the-unwritten-will.md) | величественное, суверенное; рояль-соавтор | 76% / 22% |
+| 06 | [The Last Song in the Deep](prompts/06-the-last-song-in-the-deep.md) | щемящая трагическая красота, оголённо-скорбное | 72% / 28% |
