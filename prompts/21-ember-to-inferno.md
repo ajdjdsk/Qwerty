@@ -12,32 +12,22 @@ thin childish teen vocals, shrill high girl voice, autotune, trap, EDM, hip-hop,
 ## Styles (≤ 1000)
 Epic cinematic orchestral bolero — one single unbroken crescendo from near-silence to a colossal inferno, hypnotic accumulation, dynamics overflowing. Warm mature female mezzo-soprano / contralto, breathy low chest near-whisper opening gradually into a full-throated soaring melismatic belt with controlled grit at the peak; expressive glides, rubato, breath, alive and human. A lead solo violin weaves continuously with the vocal; a relentless bolero ostinato — soft pizzicato and brushed snare pulse, then layered one by one: deep cello, harp, celesta, woodwinds, french horn, low brass, pipe organ, timpani, a huge choir at the climax. The motif never releases, only grows, instruments stacking into an overwhelming wall of sound. Film-score intensity, minor key, slow inexorable build, rich cathedral reverb, full symphonic production, ~76 BPM steady. ‑lo-fi, ‑EDM, ‑trap, ‑autotune, ‑male lead, ‑monotone
 
-## Вокал / стиль пения (вокальная режиссура)
-- **Тип голоса:** тёплое зрелое контральто/низкое меццо; глубокий грудной тембр, как у певицы «за 40», без молодёжной тонкости.
-- **Verse 1:** почти шёпот на придыхании, низко, интимно, «рассказ у тлеющих углей» — минимум вибрато, много воздуха и пауз.
-- **Pre-Chorus:** голос постепенно «набирает массу», подключается тёплое вибрато, лёгкое нарастание давления.
-- **Choruses:** уверенный грудной голос с переходом в открытый белт; длинные ноты с мелизматическими росчерками на «grow», «roar»; ни в коем случае не визгливо — мощно и округло.
-- **Bridge:** сдержанная ярость, на грани слёз; добавить ад-либы `(oh-oh-ohh)`, лёгкую хрипотцу/гритт на пике фраз.
-- **Final Chorus:** полный белт во всю грудь, контролируемый гритт и надрыв, голос «трещит» от эмоции, но не срывается; импровизационные распевы поверх оркестра.
-- **Общая дуга:** громкость и насыщенность тембра растут вместе с оркестром — никаких откатов назад, только накопление, как и музыка.
-
 ## Lyrics
 
 [Intro]
 (a single low heartbeat-pizzicato and a soft brushed pulse begin the bolero; a faint celesta glow; a lone violin barely breathes the motif)
 
-[Verse 1]
-(breathy, low, almost spoken, just the pulse and violin)
+[Verse 1 — breathy low chest, near-whisper, intimate, minimal vibrato]
 They thought they'd put me out — a wet match in the rain,
 I was smoke and a cinder and a name they wouldn't say;
 I lay so low, so quiet, they mistook me for the slain,
 but an ember doesn't argue — an ember waits for day.
 
-[Pre-Chorus]
+[Pre-Chorus — voice gains weight, warm vibrato opens]
 And the wind came soft and curious, and I drew it slowly in,
 and I felt the smallest, stubborn heat begin —
 
-[Chorus]
+[Chorus — chest voice into open belt, melismatic runs on "grow"/"roar"]
 'Cause I'm an ember now, but oh — just wait,
 I am gathering, I am gathering the flame,
 slow and certain, I accumulate,
@@ -67,7 +57,7 @@ from a furnace to a heavens-eating roar —
 I was ember, I was ember,
 and I'm everything they swore I'd be no more.
 
-[Bridge]
+[Bridge — restrained fury on the edge of tears, light grit on the peaks]
 (the build keeps climbing — choir hums enter, organ swells, no release)
 This is not revenge, my love — this is a rising,
 this is what they buried learning how to burn;
@@ -78,7 +68,7 @@ so stand back, stand back, it's my turn, it's my turn —
 [Violin & Orchestra — Bolero Peak]
 (the violin soars over the full accumulated orchestra, the ostinato at maximum)
 
-[Final Chorus]
+[Final Chorus — full chest belt, controlled grit, voice cracking with emotion, ad-lib runs over the orchestra]
 (colossal inferno — full choir, organ, the whole stacked wall at absolute maximum)
 'Cause I'm an inferno now — I told you, wait —
 I am everywhere, I am everywhere at once,

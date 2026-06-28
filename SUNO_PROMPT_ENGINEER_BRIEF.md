@@ -38,7 +38,11 @@ MEANING and EMOTION. Every track must have a real, deep, human, life-true theme,
 - Do NOT mention real artists, bands, or existing song titles anywhere.
 
 ## Variety
-- Default to the gothic-symphonic aesthetic, but vary the mood/genre often (roughly every few tracks): e.g. dark gothic waltz 3/4, macabre cabaret, ecstatic folk-gothic, dark neoclassical, baroque-noir, full battle-orchestral. Battle / overflowing-energy tracks are allowed when wanted. Always keep the warm mature female voice and real emotional depth.
+- Default to the gothic-symphonic aesthetic, but vary the mood/genre often (roughly every few tracks): e.g. dark gothic waltz 3/4, macabre cabaret, ecstatic folk-gothic, dark neoclassical, baroque-noir, jazz-noir torch, sacred requiem, eastern modal trance, full battle-orchestral. Always keep the warm mature female voice and real emotional depth.
+- **"Dynamic" does NOT mean "battle".** A dynamic/epic track means emotional energy, momentum and a strong dynamic arc — in ANY theme. Do NOT default to war/combat themes; use battle ONLY if explicitly requested or if you deliberately choose it for a new direction.
+
+## Vocal direction (how to convey singing style)
+- There is NO separate "vocal styles" field in Suno. Do NOT output a standalone vocal-direction section. Bake the singing direction into (1) the **Styles** field and (2) short cues inside the **section bracket tags**, e.g. `[Verse 1 — breathy low chest, near-whisper]`, `[Final Chorus — full belt with controlled grit, harmonized self-choir]`.
 
 ## Sliders
 - **Influence (Style):** typically 64–78% (higher = sticks closer to the style prompt).

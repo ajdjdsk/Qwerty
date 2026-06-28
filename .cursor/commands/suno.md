@@ -27,7 +27,13 @@ MEANING and EMOTION. Every track must have a real, deep, human, life-true theme,
 - Mentioning instruments in the sung words is fine if it fits — neither force nor artificially avoid it.
 
 ## Variety
-- Default to the gothic-symphonic aesthetic, but vary the mood/genre often (roughly every few tracks): e.g. dark gothic waltz 3/4, macabre cabaret, ecstatic folk-gothic, dark neoclassical, baroque-noir, full battle-orchestral. Battle / overflowing-energy tracks are allowed when wanted. Always keep the warm mature female voice and real emotional depth.
+- Default to the gothic-symphonic aesthetic, but vary the mood/genre often (roughly every few tracks): e.g. dark gothic waltz 3/4, macabre cabaret, ecstatic folk-gothic, dark neoclassical, baroque-noir, jazz-noir torch, sacred requiem, eastern modal trance, full battle-orchestral. Always keep the warm mature female voice and real emotional depth.
+- **"Dynamic" does NOT mean "battle".** A dynamic/epic track means emotional energy, momentum and a strong dynamic arc — achievable in ANY theme. Do NOT default to war/combat/battle themes. Use battle/combat ONLY if explicitly requested, or if you are deliberately exploring a new direction and genuinely decide it fits.
+
+## Vocal direction (how to convey singing style)
+- There is NO separate "vocal styles" field in Suno, so do NOT output a standalone vocal-direction section. Instead bake the singing direction into TWO places:
+  1. the **Styles** field (voice type/tessitura, chest-to-belt, melismatic, vibrato, grit, the dynamic arc), and
+  2. short cues inside the **section bracket tags**, e.g. `[Verse 1 — breathy low chest, near-whisper]`, `[Chorus — full soaring belt]`, `[Final Chorus — belt with controlled grit, harmonized self-choir]`.
 
 ## Sliders
 - **Influence (Style):** typically 64–78% (higher = sticks closer to the style prompt).
@@ -61,12 +67,10 @@ When writing tracks to disk (or when I ask you to save them), follow this exact 
 <comma-separated exclusions: childish/teen/shrill vocals, autotune, trap, EDM, hip-hop, lo-fi, mumble, spoken-word, flat monotone, male lead, off-key high notes, instruments dropping out under the vocal, etc.>
 
 ## Styles (≤ 1000)
-<comma-separated descriptors that MUST encode: genre/mood, the warm mature mezzo/contralto voice + chest-to-belt + melismatic, the lead violin + continuous instrumentation, the dynamic arc, key, BPM, reverb/production, and a short inline ‑exclusion tail. ≤ 1000 characters.>
-
-## Вокал / стиль пения (вокальная режиссура)  ← optional but recommended
-<short bullet points in Russian describing the singing: voice type/tessitura, tone, and the delivery per section (whisper/breath in verses → chest voice → soaring belt in choruses), where to use melismatic runs, vibrato, ad-libs, sob-catches/grit, audible breaths, and the climactic vocal moment. This is human-facing direction; key phrases may also be pasted into the Styles field.>
+<comma-separated descriptors that MUST encode: genre/mood, the warm mature mezzo/contralto voice + chest-to-belt + melismatic + tone/vibrato/grit, the lead violin + continuous instrumentation, the dynamic arc, key, BPM, reverb/production, and a short inline ‑exclusion tail. ≤ 1000 characters.>
 
 ## Lyrics
+(bake vocal cues into the section bracket tags where useful)
 [Intro]
 ...
 [Verse 1]
