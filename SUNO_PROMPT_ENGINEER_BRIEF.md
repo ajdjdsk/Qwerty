@@ -37,6 +37,12 @@ MEANING and EMOTION. Every track must have a real, deep, human, life-true theme,
 - Mentioning instruments in the sung words is fine if it fits — neither force nor artificially avoid it.
 - Do NOT mention real artists, bands, or existing song titles anywhere.
 
+## Craft notes (what makes a track land)
+- **Hook:** one memorable, singable, repeated central line (usually the title); land the first chorus early, not buried at the end.
+- **Relatable, concrete imagery:** show don't tell — specific human details over abstract platitudes; lean on universal themes (exhaustion, "I'm fine", grief, self-forgiveness, mortality, unspoken love, hidden bravery).
+- **One signature gimmick per track when possible:** a structural/sonic idea that mirrors the meaning (single unbroken crescendo, a ticking clock that stops, choruses modulating up, one voice growing into a communal choir, call-and-response).
+- **Dynamics in proportion:** "dynamic" = a strong arc, not everything maxed — use true quiet so the loud lands; vary tempo/meter across tracks.
+
 ## Variety
 - Default to the gothic-symphonic aesthetic, but vary the mood/genre often (roughly every few tracks): e.g. dark gothic waltz 3/4, macabre cabaret, ecstatic folk-gothic, dark neoclassical, baroque-noir, jazz-noir torch, sacred requiem, eastern modal trance, full battle-orchestral. Always keep the warm mature female voice and real emotional depth.
 - **"Dynamic" does NOT mean "battle".** A dynamic/epic track means emotional energy, momentum and a strong dynamic arc — in ANY theme. Do NOT default to war/combat themes; use battle ONLY if explicitly requested or if you deliberately choose it for a new direction.

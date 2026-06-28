@@ -26,6 +26,12 @@ MEANING and EMOTION. Every track must have a real, deep, human, life-true theme,
 - Use **concrete Suno section tags** in square brackets — e.g. `[Verse 1]`, `[Chorus]`, `[Bridge]`, `[Violin Solo]`, `[Final Chorus]`, `[Outro]`. Only when genuinely useful, add a SHORT note (a few words, or one short parenthetical line in the lyric) for staging like `(whispered)`, `(key change)`, `(music-box alone)`. Do NOT bury every verse under long abstract descriptions — Suno reads these tags but can occasionally sing or ignore them.
 - Mentioning instruments in the sung words is fine if it fits — neither force nor artificially avoid it.
 
+## Craft notes (what makes a track land)
+- **Hook:** give every track ONE memorable, singable, repeated central line (usually the title) and land the first chorus reasonably early (~first 45–70s of structure), not buried at the end.
+- **Relatable, concrete imagery:** show, don't tell — use specific, recognizable human details (tied shoes, an empty pillow, a kettle, a bus) rather than abstract platitudes. The most moving themes are universal: exhaustion, "I'm fine", grief, self-forgiveness, mortality, unspoken love, hidden bravery.
+- **One signature gimmick per track when possible:** a structural or sonic idea that mirrors the meaning (e.g. a single unbroken crescendo, a ticking clock that stops, choruses modulating up, one voice growing into a communal choir, call-and-response).
+- **Dynamics in proportion:** "dynamic" means a strong arc, not everything maxed — use restraint and contrast (true quiet so the loud lands). Vary tempo/meter across tracks.
+
 ## Variety
 - Default to the gothic-symphonic aesthetic, but vary the mood/genre often (roughly every few tracks): e.g. dark gothic waltz 3/4, macabre cabaret, ecstatic folk-gothic, dark neoclassical, baroque-noir, jazz-noir torch, sacred requiem, eastern modal trance, full battle-orchestral. Always keep the warm mature female voice and real emotional depth.
 - **"Dynamic" does NOT mean "battle".** A dynamic/epic track means emotional energy, momentum and a strong dynamic arc — achievable in ANY theme. Do NOT default to war/combat/battle themes. Use battle/combat ONLY if explicitly requested, or if you are deliberately exploring a new direction and genuinely decide it fits.
