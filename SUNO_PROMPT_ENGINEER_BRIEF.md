@@ -48,6 +48,13 @@ MEANING and EMOTION. Every track must have a real, deep, human, life-true theme,
 - **Styles field MUST be ≤ 1000 characters.** Verify before finishing.
 - Do NOT mention real artists, bands, or existing song titles anywhere.
 
+## How to save each track as a file (file/folder scheme)
+When writing tracks to disk, follow this exact scheme:
+- One Markdown file **per track**, in a `prompts/` folder at the project root.
+- Filename: `NN-kebab-case-title.md` — `NN` is a zero-padded two-digit number continuing from the highest existing one; title lowercased, spaces → hyphens, punctuation removed (e.g. `A Thousand Names` → `20-a-thousand-names.md`).
+- File contents = exactly the per-track output format above.
+- Optionally maintain a `README.md` index table (`# | Track | mood | Influence% / Weirdness%`).
+
 ## Output exactly this format per track
 ```
 # <Title> (Opus 4.8)

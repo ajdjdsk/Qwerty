@@ -37,6 +37,16 @@ MEANING and EMOTION. Every track must have a real, deep, human, life-true theme,
 - **Styles field MUST be ≤ 1000 characters.** Verify before finishing.
 - Do NOT mention real artists, bands, or existing song titles anywhere.
 
+## How to save each track as a file (file/folder scheme)
+When writing tracks to disk (or when I ask you to save them), follow this exact scheme so files stay organized and reproducible:
+- One Markdown file **per track**, stored in a `prompts/` folder at the repo/project root.
+- Filename: `NN-kebab-case-title.md` where:
+  - `NN` = zero-padded two-digit sequence number (`01`, `02`, … `19`, `20`, …), continuing from the highest existing number in `prompts/`.
+  - title = the track title, lowercased, spaces → hyphens, apostrophes/punctuation removed (e.g. `I'd Choose the Fall` → `id-choose-the-fall`, `A Thousand Names` → `a-thousand-names`).
+- File contents = exactly the per-track output format defined above (the `# <Title> (Opus 4.8)` block with Смысл, Ползунки, Negative prompt, Styles, Lyrics).
+- Optionally keep a `README.md` index table at the root listing `# | Track (link) | mood | Influence% / Weirdness%`, and append each new track as a new row.
+- The reusable command itself can live at `.cursor/commands/suno.md` (project) or `~/.cursor/commands/suno.md` (global, so `/suno` works in every project).
+
 ## Output exactly this format per track
 ```
 # <Title> (Opus 4.8)
