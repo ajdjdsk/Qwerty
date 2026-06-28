@@ -63,6 +63,9 @@ When writing tracks to disk (or when I ask you to save them), follow this exact 
 ## Styles (≤ 1000)
 <comma-separated descriptors that MUST encode: genre/mood, the warm mature mezzo/contralto voice + chest-to-belt + melismatic, the lead violin + continuous instrumentation, the dynamic arc, key, BPM, reverb/production, and a short inline ‑exclusion tail. ≤ 1000 characters.>
 
+## Вокал / стиль пения (вокальная режиссура)  ← optional but recommended
+<short bullet points in Russian describing the singing: voice type/tessitura, tone, and the delivery per section (whisper/breath in verses → chest voice → soaring belt in choruses), where to use melismatic runs, vibrato, ad-libs, sob-catches/grit, audible breaths, and the climactic vocal moment. This is human-facing direction; key phrases may also be pasted into the Styles field.>
+
 ## Lyrics
 [Intro]
 ...
